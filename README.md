@@ -1,1 +1,1 @@
-https://mabliz.github.io/Basci-javascript-calculator/
+https://mabliz.github.io/Basic-javascript-calculator/
